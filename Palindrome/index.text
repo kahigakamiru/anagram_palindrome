@@ -1,0 +1,8 @@
+1.Get the strings or numbers from the user.
+2.Take a temporary variable that holds the numbers.
+3.Reverse the given number.
+4.Compare the original number with the reversed number
+5.If the temporary and original number are same, it the number or string is a Palindrome.
+6.Else the given string or number is not the Palindrome.
+
+
